@@ -1,0 +1,33 @@
+/* Code below is associated of index.html */
+
+#index {
+  background-color: rgb(182, 125, 82);
+}
+
+.index-title {
+  color: brown;
+}
+
+.lasagna-link, .pizza-link, .tuna-link {
+  color: black;
+  font-weight: bold;
+
+}
+
+.lasagna-link:hover, .pizza-link:hover, .tuna-link:hover {
+  color: rgb(68, 67, 67);
+}
+
+.lasagna-link:active, .pizza-link:active, .tuna-link:active {
+  color: rgb(179, 32, 32);
+}
+
+.lasagna-link:visited, .pizza-link:visited, .tuna-link:visited {
+  color: rgb(255, 255, 255);
+}
+
+/* Code below is associated with lasagna.html */
+
+#lasagna-body {
+  background-color: rgb(205, 107, 72);
+}
